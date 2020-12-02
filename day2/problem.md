@@ -40,4 +40,4 @@ How many passwords are valid according to the new interpretation of the policies
 
 A nice meme of the bitwise operations:
 
-![Alt text](Bitwise_operation.jpg?raw=true "Treat OR Trick")
+![Alt text](https://github.com/infinite-draft/advent-of-code-2020-python/blob/main/day2/Bitwise_operation.JPG)
